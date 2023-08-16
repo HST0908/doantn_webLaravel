@@ -1,0 +1,31 @@
+/* :root{
+    --white-color: #FFF;
+    --black-color: #000000;
+    --text-color: #333333;
+    --primary-color: #0f9ddafc;
+    --primary-bg:#23242a;
+    --background-color:#1c1c1c;
+    --header-height: 100px;
+}
+     */
+*{
+    margin: 0;
+    box-sizing: inherit;
+    font-family: 'poppins', sans-serif;
+}
+
+
+html {
+    font-size: 62.5%;
+    background-color: #e6e7ee;
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+
+.context {
+    color: brown;
+}
+.header {
+    background-color: aqua;
+    height: 100px;
+}
